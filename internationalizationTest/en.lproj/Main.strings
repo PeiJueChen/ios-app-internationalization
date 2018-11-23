@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "I7x-4v-cct"; */
+"I7x-4v-cct.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LlS-oC-Apq"; */
+"LlS-oC-Apq.text" = "i am 3";
+
+/* Class = "UIButton"; normalTitle = "zh"; ObjectID = "X4e-HY-yWe"; */
+"X4e-HY-yWe.normalTitle" = "zh";
+
+/* Class = "UIButton"; selectedTitle = "en"; ObjectID = "X4e-HY-yWe"; */
+"X4e-HY-yWe.selectedTitle" = "en";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cFQ-ZS-m7z"; */
+"cFQ-ZS-m7z.text" = "i am 2";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eIg-r3-0ES"; */
+"eIg-r3-0ES.text" = "i am 1";
+
+/* Class = "UIButton"; normalTitle = "push"; ObjectID = "pKp-gi-9Nh"; */
+"pKp-gi-9Nh.normalTitle" = "push";
